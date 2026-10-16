@@ -1,7 +1,7 @@
 # Awesome-Vector-Database-Semantic-Search
 # Awesome-Vector-Database-Semantic-Search
 
-# Top Vector Database & Semantic Search Ecosystem
+## Top Vector Database & Semantic Search Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Embedding Storage, Hybrid Retrieval & Similarity Search at Scale*  
@@ -107,7 +107,7 @@ Star the repo if you find it useful!
 Let's make vector databases and semantic search more open, hybrid, and retrieval-efficient.
 # Awesome-Vector-Database-Semantic-Search
 
-# Top Vector Database & Semantic Search Ecosystem
+## Top Vector Database & Semantic Search Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Embedding Storage, Hybrid Retrieval & Similarity Search at Scale*  
