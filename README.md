@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white " alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Vector-Database-Semantic-Search/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Vector-Database-Semantic-Search?style=flat-square&logo=github" alt="GitHub stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Vector-Database-Semantic-Search/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Vector-Database-Semantic-Search?style=flat-square&logo=github" alt="GitHub forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Vector-Database-Semantic-Search/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a> <a href="https://github.com/ishandutta2007/Awesome-Vector-Database-Semantic-Search/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white " alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Vector-Database-Semantic-Search/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Vector-Database-Semantic-Search?style=flat-square&logo=github" alt="GitHub_Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Vector-Database-Semantic-Search/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Vector-Database-Semantic-Search?style=flat-square&logo=github" alt="GitHub forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Vector-Database-Semantic-Search/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a> <a href="https://github.com/ishandutta2007/Awesome-Vector-Database-Semantic-Search/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -60,9 +60,9 @@ Self-hosted vector databases provide complete data sovereignty, customized index
 
 ### 📊 Star-Ranked Quick Comparison
 
-The table below lists the top open-source projects, sorted strictly in **descending order by GitHub star count**. Each star badge links directly to the project's stargazers page.
+The table below lists the top open-source projects, sorted strictly in **descending order by GitHub Stars_Count**. Each Stars_Badge links directly to the project's stargazers page.
 
-| Rank | Project | GitHub Stars Badge | Language / Core Engine | Primary Use Case & Architecture |
+| Rank | Project | GitHub_Stars_Badge | Language / Core Engine | Primary Use Case & Architecture |
 | :---: | :--- | :---: | :---: | :--- |
 | 1 | **[Meilisearch](https://github.com/meilisearch/meilisearch)** | [![Meilisearch Stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers) | Rust | Lightning-fast typo-tolerant search engine with integrated AI vector embeddings and hybrid search. |
 | 2 | **[Milvus](https://github.com/milvus-io/milvus)** | [![Milvus Stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers) | Go / C++ | Cloud-native distributed vector database built for billion-scale ANN search and independent component scaling. |
@@ -196,7 +196,7 @@ Contributions to this ecosystem directory are warmly welcomed! To suggest a new 
 1. 🍴 **Fork the repository** to your GitHub account.
 2. 📝 **Add or update entries** in `README.md` following the existing format:
    - For SaaS: Include name, official URL, company scale, verified starting tier price, and concrete free tier limit.
-   - For Open-Source: Include repository link, official star badge (`style=social&color=white`) linking to `/stargazers`, core language/engine, and architecture summary.
+   - For Open-Source: Include repository link, official Stars_Badge (`style=social&color=white`) linking to `/stargazers`, core language/engine, and architecture summary.
 3. 🚀 **Submit a Pull Request (PR)** with a descriptive summary of your changes.
 
 Check out other awesome curated resources on [Awesome Lists](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
