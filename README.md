@@ -105,3 +105,5 @@ Star the repo if you find it useful!
 
 **Made for AI engineers, RAG developers, search infrastructure teams, and developers building semantic retrieval systems.**  
 Let's make vector databases and semantic search more open, hybrid, and retrieval-efficient.
+# Awesome-Vector-Database-Semantic-Search
+
